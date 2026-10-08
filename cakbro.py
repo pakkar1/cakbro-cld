@@ -51,8 +51,8 @@ except ImportError:  # aplikasi tetap jalan, hanya tanpa penutup aplikasi terlar
 EXAM_URL = "https://ujikom.pakkar.my.id/2026/09/uji-kompetensi.html"
 APP_VERSION = "2.10.2"
 APP_TITLE = "CakBro"
-UPDATE_MANIFEST_URL = "https://raw.githubusercontent.com/pakkar1/cakbro-updates/main/latest.ini"
-UPDATE_BASE_URL = "https://github.com/pakkar1/cakbro-updates/releases/latest/download/"
+UPDATE_MANIFEST_URL = "https://raw.githubusercontent.com/pakkar1/cakbro-cld/main/latest.ini"
+UPDATE_BASE_URL = "https://github.com/pakkar1/cakbro-cld/releases/latest/download/"
 # Nama file rilis per OS. macOS tidak punya auto-install (hanya pemberitahuan).
 UPDATE_ASSETS = {"win32": "CakBro.exe", "linux": "CakBro-linux"}
 
